@@ -1,0 +1,13 @@
+.mainBodyContainer {
+  background-color: #eaf4fe;
+}
+.sideImage {
+  min-height: 80vh;
+}
+
+.login_icon {
+  display: flex;
+  justify-content: center;
+  height: 100px;
+  width: 100px;
+}

@@ -1,0 +1,19 @@
+.sidebar_link {
+  display: flex;
+
+  align-items: center;
+  color: #e1e9fc;
+  font-size: 22px;
+  padding: 25px;
+  text-decoration: none;
+  list-style: none;
+  height: 90px;
+}
+.sidebar_link:hover {
+  background-color: aquamarine;
+  border-right: 5px solid red;
+}
+
+.sidebar_label {
+  margin-left: 30px;
+}

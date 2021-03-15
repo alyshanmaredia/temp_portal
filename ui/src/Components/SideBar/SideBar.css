@@ -1,0 +1,21 @@
+.nav_styling {
+  display: flex;
+  background-color: #22627e;
+  height: 80px;
+  align-items: center;
+  justify-content: flex-start;
+}
+.navbar-toggler {
+  margin-left: 4rem;
+  font-size: 2rem;
+  height: 75px;
+}
+
+.navbar-toggler:hover {
+    background-color: #22627e;
+    border-color: #22627e;
+    -webkit-transition: #22627e 0.1s linear;
+    -moz-transition: #22627e 0.1s linear;
+    -o-transition: #22627e 0.1s linear;
+    transition: #22627e 0.1s linear;
+}
